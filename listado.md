@@ -3,27 +3,37 @@ Un repositorio con información acerca de empresas donde contratan desarrollador
 
 ## Santo Domingo ##
 ### Desarrollo de software ###
-
-Empresa  | Sector | Website | Telefono | Email contacto
--------- | ------ | --------|----------|----------------
-7Soft | Productos de software | www.7softrd.com | 809-825-8283 | info@7softrd.com
-Advansys | | | |
-AH Soluciones | Consultoria software | www.ahs.do | 809-825-8283 | info@ahs.do
-Intellisys | Desarrollo a la medida | www.intellisysdcorp.com | |
-Newsoft | Productos de software | www.newsoftsa.com | 809-583-9600 |
-
+Empresa  | Sector | Website | Telefono | Email contacto | Tecnologias principales
+-------- | ------ | --------|----------|----------------|-------------------------
+Soluciones GBH | Desarrollo a la medida | www.gbh.com.do | 809-412-5947 | info@7softrd.com | PHP, React Native, React
 
 ### Otras industrias ###
-
-
+Empresa  | Sector | Website | Telefono | Email contacto | Tecnologias principales
+-------- | ------ | --------|----------|----------------|-------------------------
+BellBank | Banca | www.bellbank.com | (829)732-0002 | | Python
 
 ## Santiago ##
+### Desarrollo de software ###
+Empresa  | Sector | Website | Telefono | Email contacto | Tecnologias principales
+-------- | ------ | --------|----------|----------------|-------------------------
+7Soft | Productos de software | www.7softrd.com | 809-825-8283 | info@7softrd.com | .NET, Java, Xamarin
+Advansys | | | |
+AH Soluciones | Consultoria software | www.ahs.do | 809-825-8283 | info@ahs.do | Ruby on Rails
+Intellisys | Desarrollo a la medida | www.intellisysdcorp.com | | | 
+Newsoft | Productos de software | www.newsoftsa.com | 809-583-9600 | | JavaEE, JSF, PowerBuilder
 
-
-
+### Otras industrias ###
+Empresa  | Sector | Website | Telefono | Email contacto | Tecnologias principales
+-------- | ------ | --------|----------|----------------|-------------------------
+Asociacion Cibao de Ahorros y Prestamos | Banca | www.acap.com.do | | | Java
 
 
 ## Remoto ##
+### Desarrollo de software ###
+Empresa  | Sector | Website | Telefono | Email contacto | Tecnologias principales
+-------- | ------ | --------|----------|----------------|-------------------------
+Blue Coding | Staffing de developers | www.bluecoding.com | +1 (786) 220-3371 | info@bluecoding.com | MEAN, Ruby on Rails, PHP
 
-
-
+### Otras industrias ###
+Empresa  | Sector | Website | Telefono | Email contacto | Tecnologias principales
+-------- | ------ | --------|----------|----------------|-------------------------
