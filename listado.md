@@ -5,7 +5,7 @@ Un repositorio con información acerca de empresas donde contratan desarrollador
 ### Desarrollo de software ###
 Empresa  | Sector | Website | Telefono | Email contacto | Tecnologias principales
 -------- | ------ | --------|----------|----------------|-------------------------
-Soluciones GBH | Desarrollo a la medida | www.gbh.com.do | 809-412-5947 | info@7softrd.com | PHP, React Native, React
+Soluciones GBH | Desarrollo a la medida | www.gbh.com.do | 809-412-5947 | info@gbh.com.do | PHP, React Native, React
 
 ### Otras industrias ###
 Empresa  | Sector | Website | Telefono | Email contacto | Tecnologias principales
