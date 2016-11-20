@@ -10,8 +10,6 @@ Citrus | Desarrollo a la medida | www.citrus.com.do | 809-548-8274 | info@citrus
 Metaconxept | Consultoria de Tecnologia | www.metaconxept.com | 809-255-2033 | info@metaconxept.com |C#, Java
 Simetrica Consulting | Desarrollo a la Medida | www.simetricaconsulting.com | 809 472 2300 | |Java, C#, Oracle
 Solvex Dominicana | Desarrollo a la Medida | http://solvex.com.do/ |  809 518 2345 | contacto@solvex.com.do |C#, Java 
- 
-
 
 ### Otras industrias ###
 Empresa  | Sector | Website | Telefono | Email contacto | Tecnologias principales
@@ -32,7 +30,6 @@ Newsoft | Productos de software | www.newsoftsa.com | 809-583-9600 | | JavaEE, J
 Empresa  | Sector | Website | Telefono | Email contacto | Tecnologias principales
 -------- | ------ | --------|----------|----------------|-------------------------
 Asociacion Cibao de Ahorros y Prestamos | Banca | www.acap.com.do | | | Java
-
 
 ## Remoto ##
 ### Desarrollo de software ###
