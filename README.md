@@ -22,13 +22,13 @@ Advansys | | | |
 AH Soluciones | Consultoria software | www.ahs.do | 809-825-8283 | info@ahs.do | Ruby on Rails
 Intellisys | Desarrollo a la medida | www.intellisysdcorp.com | | | 
 Newsoft | Productos de software | www.newsoftsa.com | 809-583-9600 | | JavaEE, JSF, PowerBuilder
-Synergies | Desarrollo y Mantenimiento | www.synergiesservices.com | 809-226-1771 | | .NET, Javascript
+
 
 ### Otras industrias ###
 Empresa  | Sector | Website | Telefono | Email contacto | Tecnologias principales
 -------- | ------ | --------|----------|----------------|-------------------------
 Asociacion Cibao de Ahorros y Prestamos | Banca | www.acap.com.do | | | Java
-
+Synergies | IT Services | www.synergiesservices.com | 809-226-1771 | | .NET, Javascript
 
 ## Remoto ##
 ### Desarrollo de software ###
