@@ -5,7 +5,7 @@ Un repositorio con información acerca de empresas donde contratan desarrollador
 ### Desarrollo de software ###
 Empresa  | Sector | Website | Telefono | Email contacto | Tecnologias principales
 -------- | ------ | --------|----------|----------------|-------------------------
-Soluciones GBH | Desarrollo a la medida | www.gbh.com.do | 809-412-5947 | info@gbh.com.do | PHP, React Native, React
+Soluciones GBH | Desarrollo a la medida, Servicios manejados, Arquitectura de software | www.gbh.com.do | 809-412-5947 | info@gbh.com.do | Node.js, PHP, Android, IOS, React Native, Angular.js,  React
 Citrus | Desarrollo a la medida | www.citrus.com.do | 809-548-8274 | info@citrus.com.do | C#, Java
 
 ### Otras industrias ###
