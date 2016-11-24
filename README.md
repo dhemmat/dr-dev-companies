@@ -5,9 +5,12 @@ Un repositorio con información acerca de empresas donde contratan desarrollador
 ### Desarrollo de software ###
 Empresa  | Sector | Website | Telefono | Email contacto | Tecnologias principales
 -------- | ------ | --------|----------|----------------|-------------------------
-Soluciones GBH | Desarrollo a la medida | www.gbh.com.do | 809-412-5947 | info@gbh.com.do | PHP, React Native, React
-Citrus | Desarrollo a la medida | www.citrus.com.do | 809-548-8274 | info@citrus.com.do | C#, Java
-Simetrica Consulting | Consultoria software | www.simetricaconsulting.com | 809-472-2300 | | MEAN, Oracle Forms, .NET
+Soluciones GBH | Desarrollo a la medida | www.gbh.com.do | 809-412-5947 | info@gbh.com.do |PHP, React Native, React
+Citrus | Desarrollo a la medida | www.citrus.com.do | 809-548-8274 | info@citrus.com.do |C#, Java
+Metaconxept | Consultoria de Tecnologia | www.metaconxept.com | 809-255-2033 | info@metaconxept.com |C#, Java
+Simetrica Consulting | Desarrollo a la Medida | www.simetricaconsulting.com | 809 472 2300 | |MEAN, Oracle Forms, .NET,Java
+Solvex Dominicana | Desarrollo a la Medida | http://solvex.com.do/ |  809 518 2345 | contacto@solvex.com.do |C#, Java 
+
 
 ### Otras industrias ###
 Empresa  | Sector | Website | Telefono | Email contacto | Tecnologias principales
@@ -28,7 +31,6 @@ Newsoft | Productos de software | www.newsoftsa.com | 809-583-9600 | | JavaEE, J
 Empresa  | Sector | Website | Telefono | Email contacto | Tecnologias principales
 -------- | ------ | --------|----------|----------------|-------------------------
 Asociacion Cibao de Ahorros y Prestamos | Banca | www.acap.com.do | | | Java
-
 
 ## Remoto ##
 ### Desarrollo de software ###
