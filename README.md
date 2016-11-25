@@ -8,13 +8,16 @@ Empresa  | Sector | Website | Telefono | Email contacto | Tecnologias principale
 Soluciones GBH | Desarrollo a la medida, Servicios manejados, Arquitectura de software | www.gbh.com.do | 809-412-5947 | info@gbh.com.do | Node.js, PHP, Java, Swift (IOS), React Native, Angular.js,React
 Citrus | Desarrollo a la medida | www.citrus.com.do | 809-548-8274 | info@citrus.com.do | C#, Java
 Metaconxept | Consultoria de Tecnologia | www.metaconxept.com | 809-255-2033 | info@metaconxept.com |C#, Java
-Simetrica Consulting | Desarrollo a la Medida | www.simetricaconsulting.com | 809 472 2300 | |Java, C#, Oracle
+Simetrica Consulting | Desarrollo a la Medida | www.simetricaconsulting.com | 809 472 2300 | |MEAN,.NET,Java, Oracle Forms
 Solvex Dominicana | Desarrollo a la Medida | http://solvex.com.do/ |  809 518 2345 | contacto@solvex.com.do |C#, Java 
+
+
 
 ### Otras industrias ###
 Empresa  | Sector | Website | Telefono | Email contacto | Tecnologias principales
 -------- | ------ | --------|----------|----------------|-------------------------
 BellBank | Banca | www.bellbank.com | (829)732-0002 | | Python
+Linom consultants | Outsourcing | |829-544-5612 |empleos@linom.com.do|postgresSQL, PHP, JS, jquery
 
 ## Santiago ##
 ### Desarrollo de software ###
